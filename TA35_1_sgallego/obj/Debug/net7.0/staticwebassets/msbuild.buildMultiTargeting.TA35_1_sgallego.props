@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\TA35_1_sgallego.props" />
+</Project>
